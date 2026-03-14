@@ -1,5 +1,5 @@
 {
- "version": "1.1.2",
+ "version": "1.0.2",
  "download": "https://raw.githubusercontent.com/contappi73-ux/meu-app-updates/refs/heads/main/app.exe",
  "changelog": "Correção da IA e melhorias na interface"
 }
